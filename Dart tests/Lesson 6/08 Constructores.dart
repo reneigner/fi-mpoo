@@ -11,7 +11,7 @@ class Profesor {
     this.materia = materia;
     this.salario = salario;
   }
-  // Method
+  // Método
   void muestra() {
     print("Nombre: ${this.nombre}");
     print("Edad: ${this.edad}");
